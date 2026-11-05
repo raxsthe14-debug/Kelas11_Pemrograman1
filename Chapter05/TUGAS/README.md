@@ -70,5 +70,6 @@ NIM_NamaMahasiswa/
 - Penggunaan AI diperbolehkan sebagai alat bantu.
 - Mahasiswa wajib memahami dan mampu menjelaskan kode yang dibuat.
 - Dilarang hanya menyalin pekerjaan mahasiswa lain.
+- Minggu depan di presentasikan
 
 **Selamat mengerjakan!**
